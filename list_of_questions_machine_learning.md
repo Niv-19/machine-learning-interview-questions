@@ -95,12 +95,14 @@
 1. Describe the EM algorithm intuitively. 
 1. What are the two steps of the EM algorithm
 1. Compare GMM vs GDA.
+1. Explain DBScan and Hierarchical Clustering?
 
 ## Dimensionality Reduction
 1. Why do we need dimensionality reduction techniques? (data compression, speeds up learning algorithm and visualizing data)
 1. What do we need PCA and what does it do? (PCA tries to find a lower dimensional surface such the sum of the squared projection error is minimized)
 1. What is the difference between logistic regression and PCA?
 1. What are the two pre-processing steps that should be applied before doing PCA? (mean normalization and feature scaling)
+1. Describe ICA and compare it with PCA?
 
 ## Basics of Natural Language Processing
 1. What is WORD2VEC?
